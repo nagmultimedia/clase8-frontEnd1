@@ -1,0 +1,108 @@
+.header {
+  background-image: url('../img/banner-yqs.jpg');
+  background-repeat: repeat;
+  height: 150px;
+
+}
+
+.italiquita {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.tabulado {
+  margin-left: 77px;
+}
+
+.sobreMi {
+  color:red;
+  text-decoration:none;
+  text-transform: capitalize;
+  outline: none;
+}
+
+.tabulado img {
+  display: block;
+  float: left;
+  height: 30px;
+  background-color: orange;
+}
+
+h1,
+h3 {
+  color: rgba(0, 86, 119, 1);
+  background-color: rgba(196, 196, 196, 1);
+  margin: 0px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+h3 {
+}
+
+.central {
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
+.foot {
+  background-color: rgba(0, 86, 119, 1);
+  margin-top: 100px;
+  height: 25px;
+  padding-top: 5px;
+}
+
+.red_social {
+  display: block;
+  float: left;
+  margin-left: 20px;
+}
+
+.footer {
+  color: white;
+  display: block;
+  width: 120px;
+  float: left;
+  text-align: center;
+}
+
+.contenedor-footer {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.paginaLink {
+  text-align: center;
+  width: 1200px;
+  margin: 0 auto;
+  background-color: rgb(231, 116, 160);
+}
+
+.linkBody {
+  background-image: url("../img/fondito.jpg") ;
+  background-size: cover;
+}
+
+.paginaLink p {
+  margin: 250px auto 30px auto;
+  padding:  40px 0;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.volverLink, .paginaLink a {
+  font-size: medium;
+  text-decoration: none;
+  color: darkmagenta;
+}
